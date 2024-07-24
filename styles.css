@@ -1,0 +1,71 @@
+body {
+    font-family: 'Inter';
+}
+
+.container {
+    background-color: #f4f4f4;
+    border: 2px, solid, rgba(0,0,0,0.05);
+    border-radius: 24px;
+    padding: 48px;
+    margin: 1vw;
+    text-align: left;
+}
+
+.twoColumns div {
+    display: inline-block;
+    width: 40%;
+}
+
+.colors div {
+    /* border: 2px, solid, black; */
+    display: inline-block;
+    width: 30%;
+    margin: 16px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+#blue {
+    background-color: #2d5dcc;
+}
+
+#pink {
+    background-color: #d957d9;
+}
+
+#mintGreen {
+    background-color: #4fe0b0;
+}
+
+#beige {
+    background-color: #efd9ca;
+}
+
+#light {
+    font-weight: 100;
+}
+
+#regular {
+    font-weight: 400;
+}
+
+#bold {
+    font-weight: 700;
+}
+
+#black {
+    font-weight: 900;
+}
+
+h2 {
+    color: gray
+}
+
+#title {
+    margin: auto;
+    padding: 1vw;
+}
+
+#textStyle {
+    color: black;
+}
